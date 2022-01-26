@@ -9,7 +9,7 @@ public class DefaultRhymersFactory implements Rhymersfactory {
 
 	@Override
 	public defaultCountingOutRhymer GetStandardRhymer() {
-		return new defaultCountingOutRhymer();
+	return new defaultCountingOutRhymer();
 	}
 
 	@Override
