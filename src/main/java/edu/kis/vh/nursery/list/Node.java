@@ -5,7 +5,7 @@ public class Node {
 	private int value;
 	private Node prev;
 	private Node next;
-
+	//Nie ma nieużywanych setterow
 	public Node(final int i) {
 		setValue(i);
 	}
